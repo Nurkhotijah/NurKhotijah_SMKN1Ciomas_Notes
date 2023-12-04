@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Notes",
+    "path": "/Notes",
+    "component": "C:\\\\Users\\\\USER\\\\Downloads\\\\Notes-Nuxt-Js-main\\\\pages\\\\Notes.vue",
+    "chunkName": "pages/Notes",
+    "_name": "_f4a0b2ce"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\USER\\\\Downloads\\\\Notes-Nuxt-Js-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_72e8f04a"
+  }
+]
